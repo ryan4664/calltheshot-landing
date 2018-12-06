@@ -1382,3 +1382,14 @@ work Section style
 .person-title {
     font-weight: 100;
 }
+
+.nav-text {
+    font-size: 26px;
+    font-weight: 300; 
+}
+
+.cts-logo {
+    padding: 10px 0;
+    width: 60%;
+    height: auto;
+}
