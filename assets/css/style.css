@@ -1347,14 +1347,11 @@ work Section style
     display: inline-block;
 }
 .widget_newsletter .btn{
-    width: 20%;
     padding: 0.65rem 1.2rem;
     background-color: #444444;
     border-color:#444444;
     color:#fff;
     border-radius: 0;
-    margin-left:-4px;
-    display: inline-block;
 }
 .widget_brand a{
     font-size:30px;
@@ -1373,6 +1370,14 @@ work Section style
 
 #navbar-title {
     color: #faa905;
-    font-weight: 100;
+    font-weight: 300;
     font-size: 36px; 
+}
+
+.my-2 {
+    margin: 1em 0 ;
+}
+
+.person-title {
+    font-weight: 100;
 }
