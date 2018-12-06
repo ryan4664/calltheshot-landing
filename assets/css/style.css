@@ -1352,6 +1352,7 @@ work Section style
     border-color:#444444;
     color:#fff;
     border-radius: 0;
+    width: 80%;
 }
 .widget_brand a{
     font-size:30px;
