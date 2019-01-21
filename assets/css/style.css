@@ -1384,7 +1384,7 @@ work Section style
 }
 
 .nav-text {
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 300; 
 }
 
@@ -1392,4 +1392,8 @@ work Section style
     padding: 10px 0;
     width: 60%;
     height: auto;
+}
+
+.page-title {
+    margin-top: 1em;
 }
